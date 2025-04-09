@@ -90,7 +90,7 @@ streamlit run Meeting_agent.py
 
 ## 📬 Contact
 
-For queries, improvements, or collaborations, raise an issue on GitHub or connect via [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/matrupriya-dibyanshu-panda-386b38251/).
+For queries, improvements, or collaborations, raise an issue on GitHub or connect via [LinkedIn](https://www.linkedin.com/in/matrupriya-dibyanshu-panda-386b38251/)
 
 ---
 
