@@ -30,8 +30,8 @@ Your AI-powered co-pilot for planning, managing, and extracting insights from me
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/meetpilot.git
-cd meetpilot
+git clone [https://github.com/matrupriya2048/MeetPilot.git]
+cd MeetPilot
 ```
 
 ### 2. Install Dependencies
